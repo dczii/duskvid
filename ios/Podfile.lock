@@ -1,0 +1,16 @@
+PODS:
+  - NodeMediaClient (2.4.6)
+
+DEPENDENCIES:
+  - NodeMediaClient
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NodeMediaClient
+
+SPEC CHECKSUMS:
+  NodeMediaClient: d7ff65a9b99f9201ad19357f6f5a3c5252101658
+
+PODFILE CHECKSUM: 2e6c51ad7b1d4debd7cd6364e74aac19cdd15e1c
+
+COCOAPODS: 1.5.3
